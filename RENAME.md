@@ -68,6 +68,15 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## Dataset Structure
+## Dataset Link
 
-Organize your dataset in the following structure:
+https://www.kaggle.com/datasets/angelchi56/multiview-highdensity-anomalous-crowd/data 
+
+Thanks to the Dataset Provider
+
+Author Name
+Samar Mahmoud
+
+Bio
+https://www.gre.ac.uk/people/rep/fach/samar-mahmoud2
+
